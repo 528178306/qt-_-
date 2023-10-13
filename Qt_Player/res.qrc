@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/list.png</file>
+        <file>res/next.png</file>
+        <file>res/play.png</file>
+        <file>res/pre.png</file>
+        <file>res/voice.png</file>
+        <file>res/files.png</file>
+        <file>res/back3.jpg</file>
+        <file>res/pause.png</file>
+        <file>res/mute.png</file>
+        <file>res/logo.png</file>
+        <file>res/night.png</file>
+        <file>res/whiteday.png</file>
+        <file>res/black.jpg</file>
+        <file>res/white.jpg</file>
+        <file>res/blackLarge.png</file>
+        <file>res/BlackReduce.png</file>
+    </qresource>
+</RCC>
